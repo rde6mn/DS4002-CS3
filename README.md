@@ -29,7 +29,7 @@ The California Restaurant Reviews -Rubric.pdf file contains all deliverables you
 Contains all code necessary for this project. Has two files: EDACode.ipynb for exploratory analysis graphs and MainAnalysisCode.ipynb for the main code for sentiment analysis.
 
 ## Data
-Contains Data Apendix.pdf, a file containing the data dictionary and exploratory plots for variables in the dataset, and [Instructions to Obtain Data.pdf] (https://github.com/rde6mn/DS4002-CS3/blob/main/Data/Instructions%20to%20Obtain%20Data.pdf), instructions for obtaining data.
+Contains [Data Apendix.pdf](https://github.com/rde6mn/DS4002-CS3/blob/main/Data/Data%20Appendix.pdf), a file containing the data dictionary and exploratory plots for variables in the dataset, and [Instructions to Obtain Data.pdf](https://github.com/rde6mn/DS4002-CS3/blob/main/Data/Instructions%20to%20Obtain%20Data.pdf), instructions for obtaining data.
 
 ## Extra Materials
 Contains extra materials to help you understand parts of this project better and to help you get excited about this case study. Extra Resources\NLTK Sentiment Analysis Tutorial_ Text Mining & Analysis in Python _ DataCamp.pdf is a more technical source with information about sentiment analysis, and Extra Resources\Your Guide to Restaurant Ratings _ Limepack.pdf contains information about why restaurant ratings are important.
