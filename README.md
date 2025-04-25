@@ -25,11 +25,11 @@ The [California Restaurant Reviews - Hook Document.pdf](https://github.com/rde6m
 ## Rubric 
 The [California Restaurant Reviews -Rubric.pdf](https://github.com/rde6mn/DS4002-CS3/blob/main/California%20Restaurant%20Reviews%20-Rubric.pdf) file contains all deliverables you are expected to produce from this case study.
 
-## Code
+## [Code](https://github.com/rde6mn/DS4002-CS3/tree/main/Code)
 Contains all code necessary for this project. Has two files: [EDACode.ipynb](https://github.com/rde6mn/DS4002-CS3/blob/main/Code/EDACode.ipynb) for exploratory analysis graphs and [MainAnalysisCode.ipynb](https://github.com/rde6mn/DS4002-CS3/blob/main/Code/MainAnalysisCode.ipynb) for the main code for sentiment analysis.
 
-## Data
+## [Data](https://github.com/rde6mn/DS4002-CS3/tree/main/Data)
 Contains [Data Apendix.pdf](https://github.com/rde6mn/DS4002-CS3/blob/main/Data/Data%20Appendix.pdf), a file containing the data dictionary and exploratory plots for variables in the dataset, and [Instructions to Obtain Data.pdf](https://github.com/rde6mn/DS4002-CS3/blob/main/Data/Instructions%20to%20Obtain%20Data.pdf), instructions for obtaining data.
 
-## Extra Materials
+## [Extra Resources](https://github.com/rde6mn/DS4002-CS3/tree/main/Extra%20Resources)
 Contains extra materials to help you understand parts of this project better and to help you get excited about this case study. [NLTK Sentiment Analysis Tutorial_ Text Mining & Analysis in Python _ DataCamp.pdf](https://github.com/rde6mn/DS4002-CS3/blob/main/Code/MainAnalysisCode.ipynb) is a more technical source with information about sentiment analysis, and [Your Guide to Restaurant Ratings _ Limepack.pdf](https://github.com/rde6mn/DS4002-CS3/blob/main/Extra%20Resources/Your%20Guide%20to%20Restaurant%20Ratings%20_%20Limepack.pdf) contains information about why restaurant ratings are important.
