@@ -26,7 +26,7 @@ The California Restaurant Reviews - Hook Document.pdf file introduces you to thi
 The California Restaurant Reviews -Rubric.pdf file contains all deliverables you are expected to produce from this case study.
 
 ## Code
-Contains all code necessary for this project. Has two files: EDACode.ipynb for exploratory analysis graphs and MainAnalysisCode.ipynb for the main code for sentiment analysis.
+Contains all code necessary for this project. Has two files: [EDACode.ipynb](https://github.com/rde6mn/DS4002-CS3/blob/main/Code/EDACode.ipynb) for exploratory analysis graphs and [MainAnalysisCode.ipynb](https://github.com/rde6mn/DS4002-CS3/blob/main/Code/MainAnalysisCode.ipynb) for the main code for sentiment analysis.
 
 ## Data
 Contains [Data Apendix.pdf](https://github.com/rde6mn/DS4002-CS3/blob/main/Data/Data%20Appendix.pdf), a file containing the data dictionary and exploratory plots for variables in the dataset, and [Instructions to Obtain Data.pdf](https://github.com/rde6mn/DS4002-CS3/blob/main/Data/Instructions%20to%20Obtain%20Data.pdf), instructions for obtaining data.
