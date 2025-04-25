@@ -1,7 +1,7 @@
 # California Restaurant Reviews Case Study by Mohini Gupta
 
 ## Repository Overview
-Welcome to the repository for the California Restaurant Reviews Case Study! This case study uses sentiment analysis to understand factors that influence restaurant rating and overall sentiment scores associated with each rating level. This repository contains all materials needed to complete this case study.
+Welcome to the repository for the California Restaurant Reviews Case Study! This case study uses sentiment analysis to understand factors that influence restaurant rating and overall sentiment scores associated with each rating level. This repository contains all materials needed to complete this case study. You will be completing this case study using Python, and all code will be run through Jupyter Notebook.  
 
 ## Repository Structure
 ├── Code/
