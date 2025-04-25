@@ -20,10 +20,10 @@ Welcome to the repository for the California Restaurant Reviews Case Study! This
 
 
 ## Hook Document
-The California Restaurant Reviews - Hook Document.pdf file introduces you to this case and what your role will be when going through the stuy.
+The [California Restaurant Reviews - Hook Document.pdf](https://github.com/rde6mn/DS4002-CS3/blob/main/California%20Restaurant%20Reviews%20-%20Hook%20Document.pdf) file introduces you to this case and what your role will be when going through the stuy.
 
 ## Rubric 
-The California Restaurant Reviews -Rubric.pdf file contains all deliverables you are expected to produce from this case study.
+The [California Restaurant Reviews -Rubric.pdf](https://github.com/rde6mn/DS4002-CS3/blob/main/California%20Restaurant%20Reviews%20-Rubric.pdf) file contains all deliverables you are expected to produce from this case study.
 
 ## Code
 Contains all code necessary for this project. Has two files: [EDACode.ipynb](https://github.com/rde6mn/DS4002-CS3/blob/main/Code/EDACode.ipynb) for exploratory analysis graphs and [MainAnalysisCode.ipynb](https://github.com/rde6mn/DS4002-CS3/blob/main/Code/MainAnalysisCode.ipynb) for the main code for sentiment analysis.
